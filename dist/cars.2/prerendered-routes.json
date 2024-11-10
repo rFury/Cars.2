@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/AddCar",
+    "/app-forbidden",
+    "/Cars",
+    "/FamilyGroups",
+    "/Login"
+  ]
+}
